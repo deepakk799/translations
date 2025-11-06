@@ -1,0 +1,72 @@
+﻿{
+  "login-id_description": "Für den Zugang zu Ihrem Konto ist eine Anmeldung erforderlich.",
+  "login-id_footerText": "Benötigen Sie ein Konto? Registrieren",
+  "login-id_Emailaddress-error": "Bitte geben Sie eine E-Mail Adresse ein",
+  
+  "login-password_title": "Willkommen",
+  "login-password_description": "Für den Zugang zu Ihrem Konto ist eine Anmeldung erforderlich.",
+  "login-password_footerText": "Benötigen Sie ein Konto? Registrieren",
+
+  "signup-id_welcome": "Willkommen",
+  "signup-id_description": "Registrieren Sie sich, um ein Konto zu erstellen.",
+  "signup-id_country": "Land/Region",
+  "signup-id_first-name": "Vorname",
+  "signup-id_first-name-error": "Vorname ist erforderlich.",
+  "signup-id_last-name": "Nachname",
+  "signup-id_last-name-error": "Nachname ist erforderlich.",
+  "signup-id_emailPlaceholder": "E-Mail Adresse",
+  "signup-id_emailaddress error": "Bitte geben Sie eine E-Mail Adresse ein",
+  "signup-id_phone-number": "Telefonnummer",
+  "signup-id_organization": "Organisation",
+  "signup-id_organization-error": "Organisation ist erforderlich.",
+  "signup-id_title": "Position",
+  "signup-id_terms-and-conditions": "Durch Klicken auf „Konto erstellen“ bestätigen Sie, dass Sie die Nutzungsbedingungen und die Datenschutzrichtlinie gelesen haben und ihnen zustimmen.",
+  "signup-id_terms-and-conditions-error": "Um die Nutzung zu ermöglichen, müssen Sie den Nutzungsbedingungen und der Datenschutzrichtlinie zustimmen.",
+  "signup-id_marketing-consent": "Ich möchte Informationen zu Produkten, Dienstleistungen, Veranstaltungen (Workshops, Webinare) und Inhalten zu erhalten. Ich bin damit einverstanden, per Telefon oder E-Mail kontaktiert zu werden.",
+  "signup-id_buttonText": "Konto erstellen",
+  "signup-id_footerLinkText": "Haben Sie bereits ein Konto? Anmelden",
+  
+  "signup-password_title": "Passwort festlegen",
+  "signup-password_description": "Legen Sie zunächst ein Passwort fest, um Ihr Konto zu erstellen.",
+  "signup-password_Confirm Password": "Bestätigen Sie Ihr Passwort",
+  "signup-password_buttonText": "Passwort festlegen",
+  
+  "reset-password_title": "Passwort vergessen?",
+  "reset-password_backToLoginLinkText": "Zurück zum Login",
+  
+  "reset-password-success_title": "Passwort aktualisiert",
+  "reset-password-success_buttonText": "Zurück zum Login",
+  
+  "title": "Wir vereinheitlichen den Zugang über den Danaher-Login!",
+  "Description-1": "Zur Verbesserung des Nutzererlebnisses ist die Festlegung eines Passworts für Ihr Danaher-Konto erforderlich.",
+  "Description-2": "Alternativ zum Händler-Single-Sign-On können Sie sich auch direkt mit Ihrem Benutzernamen anmelden. So stellen Sie einen nahtlosen Zugriff auf alle Danaher-Anwendungen sicher.",
+  "PasswordInputField-1": "Passwort",
+  "PasswordInputField-2": "Bestätigen Sie Ihr Passwort",
+  "buttonText-1": "Weiter",
+  "buttonText-2": "Überspringen",
+  
+  "welcome_email_subject": "Herzlich willkommen bei Danaher Account!",
+  "welcome_email_body_title": "Herzlich willkommen bei Danaher Account!",
+  "welcome_description_1": "Hallo John Doe,",
+  "welcome_description_2": "Willkommen bei Danaher Account! Wir helfen Ihnen gerne, Ihre Ziele zu erreichen!",
+  "welcome_description_3": "Sollten Sie Schwierigkeiten mit Ihrem Benutzerkonto haben, zögern Sie bitte nicht, uns zu kontaktieren, indem Sie auf diese E-Mail antworten.\nDanke!",
+  "welcome_description_4": " Sollten Sie sich nicht sicher sein, warum Sie diese Meldung erhalten haben, kontaktieren Sie uns bitte über unser Support-Center.",
+  
+  "verify_email_subject": "Identität bestätigen",
+  "verify_email_body_title": "Identität bestätigen",
+  "verify_description_1": "Zur Bestätigung Ihrer Identität verwenden Sie bitte den folgenden Code:\nIhr Code lautet:",
+  "verify_description_2": "Zu Ihrer Sicherheit geben Sie diesen Code nicht an Dritte weiter.",
+  "verify_description_3": "Sie erhalten diese E-Mail, da Sie ein Konto bei einem unserer Danaher-Lifesciences-Unternehmen haben. Sollten Sie sich nicht sicher sein, warum Sie diese Meldung erhalten haben, kontaktieren Sie uns bitte über unser Support-Center.",
+  
+  "reset_email_subject": "Passwort zurücksetzen (Code)",
+  "reset_email_body_title": "Sie haben eine Anfrage zur Passwortänderung gestellt.",
+  "reset_description_1": "Sollten Sie dies veranlasst haben, bestätigen Sie die Änderung Ihres Passworts mit diesem Code.\nIhr Code lautet:",
+  "reset_description_2": "Sollten Sie Schwierigkeiten mit Ihrem Benutzerkonto haben, zögern Sie bitte nicht, uns zu kontaktieren, indem Sie auf diese E-Mail antworten. Danke!",
+  "reset_description_3": "Sie erhalten diese E-Mail, da Sie ein Konto bei einem unserer Danaher-Lifesciences-Unternehmen haben. Sollten Sie sich nicht sicher sein, warum Sie diese Meldung erhalten haben, kontaktieren Sie uns bitte über unser Support-Center.",
+  
+  "mfa_email_subject": "Ihr Authentifizierungscode",
+  "mfa_email_body_title": "MFA-Code für <Anwendungsname>",
+  "mfa_description_1": "Ihr Code lautet:",
+  "mfa_description_2": "Sie erhalten diese E-Mail, da Sie ein Konto bei einem unserer Danaher-Lifesciences-Unternehmen haben (Dev). Sollten Sie sich nicht sicher sein, warum Sie diese Meldung erhalten haben, kontaktieren Sie uns bitte über unser Support-Center."
+
+}
