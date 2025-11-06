@@ -50,19 +50,19 @@
   "welcome_description_1": "Hi John Doe,",
   "welcome_description_2": "Welcome to Danaher Account! We're excited to help you reach your goals!",
   "welcome_description_3": "If you are having any issues with your account, please don't hesitate to contact us by replying to this mail.\nThanks!",
-  "welcome_description_4": "You're receiving this email because you have an account in Danaher Account. If you are not sure why you’re receiving this, please contact us through our Support Center.",
+  "welcome_description_4": " If you are not sure why you’re receiving this, please contact us through our Support Center.",
   
   "verify_email_subject": "Verify your identity",
   "verify_email_body_title": "Verify your identity",
   "verify_description_1": "Please use the following code to help verify your identity:\nYour code is:",
   "verify_description_2": "For your security, do not share this code with anyone",
-  "verify_description_3": "You're receiving this email because you have an account in Danaher Account. If you are not sure why you’re receiving this, please contact us through our Support Center.",
+  "verify_description_3": "You're receiving this email because you have an account in one of our Danaher Lifesciences Companies. If you are not sure why you’re receiving this, please contact us through our Support Center.",
   
   "reset_email_subject": "Reset your password (code)",
   "reset_email_body_title": "You have submitted a password change request!",
   "reset_description_1": "If it was you, confirm the password change using this code\nYour code is:",
   "reset_description_2": "If you are having any issues with your account, please don't hesitate to contact us by replying to this mail. Thanks!",
-  "reset_description_3": "You're receiving this email because you have an account in Danaher Account. If you are not sure why you’re receiving this, please contact us through our Support Center.",
+  "reset_description_3": "You're receiving this email because you have an account in one of our Danaher Lifesciences Companies. If you are not sure why you’re receiving this, please contact us through our Support Center.",
   
   "mfa_email_subject": "Your authentication code",
   "mfa_email_body_title": "MFA Code for <Application Name>",
