@@ -1,0 +1,72 @@
+{
+  "login-id_description": "Sign in to continue to your account.",
+  "login-id_footerText": "Need an account? Sign up",
+  "login-id_Emailaddress-error": "Please enter an email address",
+  
+  "login-password_title": "Welcome",
+  "login-password_description": "Sign in to continue to your account.",
+  "login-password_footerText": "Need an account? Sign up",
+
+  "signup-id_welcome": "Welcome",
+  "signup-id_description": "Sign up to create your account.",
+  "signup-id_country": "Country/Region",
+  "signup-id_first-name": "First Name",
+  "signup-id_first-name-error": "First Name is required.",
+  "signup-id_last-name": "Last Name",
+  "signup-id_last-name-error": "Last Name is required.",
+  "signup-id_emailPlaceholder": "Email address",
+  "signup-id_emailaddress error": "Please enter an email address",
+  "signup-id_phone-number": "Contact Number",
+  "signup-id_organization": "Organization",
+  "signup-id_organization-error": "Organization is required.",
+  "signup-id_title": "Title",
+  "signup-id_terms-and-conditions": "By clicking the create account button, you confirm that you have reviewed and agree with the Terms of Use and Privacy Policy.",
+  "signup-id_terms-and-conditions-error": "You must agree to the Terms of Use and Privacy Policy.",
+  "signup-id_marketing-consent": "I am interested in receiving information about products, services, events (workshops, webinars), and educational content. I consent to be contacted by phone or email.",
+  "signup-id_buttonText": "Create Account",
+  "signup-id_footerLinkText": "Already have an account? Sign in",
+  
+  "signup-password_title": "Set Your Password",
+  "signup-password_description": "Set your password to create your account.",
+  "signup-password_Confirm Password": "Confirm Password",
+  "signup-password_buttonText": "Set Password",
+  
+  "reset-password_title": "Forgot Password?",
+  "reset-password_backToLoginLinkText": "Back to Login",
+  
+  "reset-password-success_title": "Password Updated",
+  "reset-password-success_buttonText": "Back to Login",
+  
+  "title": "We're unifying access through Danaher Login!",
+  "Description-1": "To enhance your experience, please set a password for your Danaher account.",
+  "Description-2": "You can log in directly with your username as an alternative to Dealer Single Sign-On, ensuring seamless access across all Danaher applications.",
+  "PasswordInputField-1": "Password",
+  "PasswordInputField-2": "Confirm Password",
+  "buttonText-1": "Continue",
+  "buttonText-2": "Skip",
+  
+  "welcome_email_subject": "Welcome to Danaher Account",
+  "welcome_email_body_title": "Welcome to Danaher Account !",
+  "welcome_description_1": "Hi John Doe,",
+  "welcome_description_2": "Welcome to Danaher Account! We're excited to help you reach your goals!",
+  "welcome_description_3": "If you are having any issues with your account, please don't hesitate to contact us by replying to this mail.\nThanks!",
+  "welcome_description_4": "You're receiving this email because you have an account in Danaher Account. If you are not sure why you’re receiving this, please contact us through our Support Center.",
+  
+  "verify_email_subject": "Verify your identity",
+  "verify_email_body_title": "Verify your identity",
+  "verify_description_1": "Please use the following code to help verify your identity:\nYour code is:",
+  "verify_description_2": "For your security, do not share this code with anyone",
+  "verify_description_3": "You're receiving this email because you have an account in Danaher Account. If you are not sure why you’re receiving this, please contact us through our Support Center.",
+  
+  "reset_email_subject": "Reset your password (code)",
+  "reset_email_body_title": "You have submitted a password change request!",
+  "reset_description_1": "If it was you, confirm the password change using this code\nYour code is:",
+  "reset_description_2": "If you are having any issues with your account, please don't hesitate to contact us by replying to this mail. Thanks!",
+  "reset_description_3": "You're receiving this email because you have an account in Danaher Account. If you are not sure why you’re receiving this, please contact us through our Support Center.",
+  
+  "mfa_email_subject": "Your authentication code",
+  "mfa_email_body_title": "MFA Code for <Application Name>",
+  "mfa_description_1": "Your code is:",
+  "mfa_description_2": "You're receiving this email because you have an account in Danaher Account (Dev). If you are not sure why you’re receiving this, please contact us through our Support Center."
+
+}
