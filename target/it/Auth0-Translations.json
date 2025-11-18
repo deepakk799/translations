@@ -1,0 +1,72 @@
+﻿{
+  "login-id_description": "Accedere per continuare col proprio account.",
+  "login-id_footerText": "Avete bisogno di un account? Iscriviti",
+  "login-id_Emailaddress-error": "Inserire un indirizzo e-mail",
+  
+  "login-password_title": "Benvenuti",
+  "login-password_description": "Accedere per continuare col proprio account.",
+  "login-password_footerText": "Avete bisogno di un account? Iscriviti",
+
+  "signup-id_welcome": "Benvenuti",
+  "signup-id_description": "Registratevi per creare il vostro account.",
+  "signup-id_country": "Nazione/Regione",
+  "signup-id_first-name": "Nome",
+  "signup-id_first-name-error": "Il nome è obbligatorio.",
+  "signup-id_last-name": "Cognome",
+  "signup-id_last-name-error": "Il cognome è obbligatorio.",
+  "signup-id_emailPlaceholder": "Indirizzo e-mail",
+  "signup-id_emailaddress error": "Inserire un indirizzo e-mail",
+  "signup-id_phone-number": "Numero di contatto",
+  "signup-id_organization": "Organizzazione",
+  "signup-id_organization-error": "L'organizzazione è necessaria.",
+  "signup-id_title": "Titolo",
+  "signup-id_terms-and-conditions": "Facendo clic sul pulsante Crea account, l'utente conferma di aver esaminato e di accettare le Condizioni d'uso e l'Informativa sulla privacy.",
+  "signup-id_terms-and-conditions-error": "L'utente deve accettare le Condizioni d'uso e l'Informativa sulla privacy.",
+  "signup-id_marketing-consent": "Sono interessato a ricevere informazioni su prodotti, servizi, eventi (workshop, webinar) e contenuti educativi. Accetto di essere contattato per telefono o via e-mail.",
+  "signup-id_buttonText": "Creare un account",
+  "signup-id_footerLinkText": "Avete già un account? Accedi",
+  
+  "signup-password_title": "Impostare la password",
+  "signup-password_description": "Impostare la password per creare il proprio account.",
+  "signup-password_Confirm Password": "Confermare la password",
+  "signup-password_buttonText": "Impostare la password",
+  
+  "reset-password_title": "Hai dimenticato la password?",
+  "reset-password_backToLoginLinkText": "Torna al login",
+  
+  "reset-password-success_title": "Password aggiornata",
+  "reset-password-success_buttonText": "Torna al login",
+  
+  "title": "Stiamo unificando l'accesso attraverso il Danaher Login!",
+  "Description-1": "Per migliorare la vostra esperienza, impostate una password per il vostro account Danaher.",
+  "Description-2": "È possibile accedere direttamente con il proprio nome utente in alternativa al Dealer Single Sign-On, garantendo un accesso continuo a tutte le applicazioni Danaher.",
+  "PasswordInputField-1": "Password:",
+  "PasswordInputField-2": "Confermare la password",
+  "buttonText-1": "Continua",
+  "buttonText-2": "Saltare",
+  
+  "welcome_email_subject": "Benvenuti nell'Account Danaher",
+  "welcome_email_body_title": "Benvenuti nell'Account Danaher!",
+  "welcome_description_1": "Ciao John Doe,",
+  "welcome_description_2": "Benvenuti nell'Account Danaher! Siamo entusiasti di aiutarvi a raggiungere i vostri obiettivi!",
+  "welcome_description_3": "Se hai problemi con il tuo account, non esitare a contattarci rispondendo a questa mail.\nGrazie!",
+  "welcome_description_4": " Se non siete sicuri del motivo per cui state ricevendo questo messaggio, contattateci attraverso il nostro Centro di assistenza.",
+  
+  "verify_email_subject": "Verificare la propria identità",
+  "verify_email_body_title": "Verificare la propria identità",
+  "verify_description_1": "Utilizza il seguente codice per verificare la tua identità:\nIl tuo codice è:",
+  "verify_description_2": "Per la vostra sicurezza, non condividete questo codice con nessuno",
+  "verify_description_3": "State ricevendo questa e-mail perché avete un account in una delle nostre società Danaher Lifesciences. Se non siete sicuri del motivo per cui state ricevendo questo messaggio, contattateci attraverso il nostro Centro di assistenza.",
+  
+  "reset_email_subject": "Reimpostare la password (codice)",
+  "reset_email_body_title": "Hai inviato una richiesta di modifica della password!",
+  "reset_description_1": "Se sei stato tu, conferma la modifica della password utilizzando questo codice\nIl tuo codice è:",
+  "reset_description_2": "Se avete problemi con il vostro account, non esitate a contattarci rispondendo a questo messaggio. Grazie!",
+  "reset_description_3": "State ricevendo questa e-mail perché avete un account in una delle nostre società Danaher Lifesciences. Se non siete sicuri del motivo per cui state ricevendo questo messaggio, contattateci attraverso il nostro Centro di assistenza.",
+  
+  "mfa_email_subject": "Il vostro codice di autenticazione",
+  "mfa_email_body_title": "Codice AMF per <Nome dell'applicazione>",
+  "mfa_description_1": "Il codice è:",
+  "mfa_description_2": "State ricevendo questa e-mail perché avete un account in Danaher Account (Dev). Se non siete sicuri del motivo per cui state ricevendo questo messaggio, contattateci attraverso il nostro Centro di assistenza."
+
+}
