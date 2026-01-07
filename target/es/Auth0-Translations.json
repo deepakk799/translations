@@ -1,0 +1,72 @@
+﻿{
+  "login-id_description": "Inicie sesión para continuar con su cuenta.",
+  "login-id_footerText": "¿Necesita una cuenta? Regístrese",
+  "login-id_Emailaddress-error": "Introduzca una dirección de correo electrónico",
+  
+  "login-password_title": "Bienvenido",
+  "login-password_description": "Inicie sesión para continuar con su cuenta.",
+  "login-password_footerText": "¿Necesita una cuenta? Regístrese",
+
+  "signup-id_welcome": "Bienvenido",
+  "signup-id_description": "Regístrese para crear su cuenta.",
+  "signup-id_country": "País/región",
+  "signup-id_first-name": "Nombre",
+  "signup-id_first-name-error": "El nombre es obligatorio.",
+  "signup-id_last-name": "Apellidos",
+  "signup-id_last-name-error": "El apellido es obligatorio.",
+  "signup-id_emailPlaceholder": "Dirección de correo electrónico",
+  "signup-id_emailaddress error": "Introduzca una dirección de correo electrónico",
+  "signup-id_phone-number": "Número de contacto",
+  "signup-id_organization": "Organización",
+  "signup-id_organization-error": "Se requiere organización.",
+  "signup-id_title": "Título",
+  "signup-id_terms-and-conditions": "Al hacer clic en el botón Crear cuenta, confirma que ha revisado y acepta las Condiciones de Uso y la Política de Privacidad.",
+  "signup-id_terms-and-conditions-error": "Debe aceptar las Condiciones de Uso y la Política de Privacidad.",
+  "signup-id_marketing-consent": "Estoy interesado en recibir información sobre productos, servicios, eventos (talleres, seminarios web) y contenidos educativos. Doy mi consentimiento para que se pongan en contacto conmigo por teléfono o correo electrónico.",
+  "signup-id_buttonText": "Crear una cuenta",
+  "signup-id_footerLinkText": "¿Ya tiene una cuenta? Iniciar sesión",
+  
+  "signup-password_title": "Establezca su contraseña",
+  "signup-password_description": "Establezca su contraseña para crear su cuenta.",
+  "signup-password_Confirm Password": "Confirmar contraseña",
+  "signup-password_buttonText": "Establecer contraseña",
+  
+  "reset-password_title": "¿Ha olvidado su contraseña?",
+  "reset-password_backToLoginLinkText": "Volver al inicio de sesión",
+  
+  "reset-password-success_title": "Contraseña actualizada",
+  "reset-password-success_buttonText": "Volver al inicio de sesión",
+  
+  "title": "¡Estamos unificando el acceso a través de Danaher Login!",
+  "Description-1": "Para mejorar su experiencia, establezca una contraseña para su cuenta de Danaher.",
+  "Description-2": "Puede iniciar sesión directamente con su nombre de usuario como alternativa al inicio de sesión único del distribuidor, lo que garantiza un acceso sin problemas a todas las aplicaciones de Danaher.",
+  "PasswordInputField-1": "Contraseña:",
+  "PasswordInputField-2": "Confirmar contraseña",
+  "buttonText-1": "Continúe en",
+  "buttonText-2": "Saltar",
+  
+  "welcome_email_subject": "Bienvenido a la cuenta de Danaher",
+  "welcome_email_body_title": "Bienvenido a la cuenta Danaher",
+  "welcome_description_1": "Hola John Doe,",
+  "welcome_description_2": "Bienvenido a la cuenta Danaher Estamos encantados de ayudarle a alcanzar sus objetivos",
+  "welcome_description_3": "Si tiene algún problema con su cuenta, no dude en ponerse en contacto con nosotros respondiendo a este correo.\n¡Gracias!",
+  "welcome_description_4": " Si no está seguro del motivo, póngase en contacto con nosotros a través de nuestro Centro de Asistencia.",
+  
+  "verify_email_subject": "Verifique su identidad",
+  "verify_email_body_title": "Verifique su identidad",
+  "verify_description_1": "Por favor, utilice el siguiente código para ayudar a verificar su identidad:\nSu código es:",
+  "verify_description_2": "Por su seguridad, no comparta este código con nadie",
+  "verify_description_3": "Está recibiendo este correo electrónico porque tiene una cuenta en una de nuestras empresas de Danaher Lifesciences. Si no está seguro del motivo, póngase en contacto con nosotros a través de nuestro Centro de Asistencia.",
+  
+  "reset_email_subject": "Restablecer contraseña (código)",
+  "reset_email_body_title": "Ha enviado una solicitud de cambio de contraseña",
+  "reset_description_1": "Si ha sido usted, confirme el cambio de contraseña con este código\nSu código es:",
+  "reset_description_2": "Si tiene algún problema con su cuenta, no dude en ponerse en contacto con nosotros respondiendo a este correo. Gracias",
+  "reset_description_3": "Está recibiendo este correo electrónico porque tiene una cuenta en una de nuestras empresas de Danaher Lifesciences. Si no está seguro del motivo, póngase en contacto con nosotros a través de nuestro Centro de Asistencia.",
+  
+  "mfa_email_subject": "Su código de autenticación",
+  "mfa_email_body_title": "Código MFA para <Nombre de la aplicación>",
+  "mfa_description_1": "Su código es:",
+  "mfa_description_2": "Está recibiendo este correo electrónico porque tiene una cuenta en Danaher Account (Dev). Si no está seguro del motivo, póngase en contacto con nosotros a través de nuestro Centro de Asistencia."
+
+}
