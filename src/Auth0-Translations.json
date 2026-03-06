@@ -68,5 +68,6 @@
   "mfa_email_body_title": "MFA Code for <Application Name>",
   "mfa_description_1": "Your code is:",
   "mfa_description_2": "You're receiving this email because you have an account in Danaher Account (Dev). If you are not sure why you’re receiving this, please contact us through our Support Center."
-
+  "one_login": "One Login. More Access.",
+  "one_login_description": Use one account to seamlessly access the life sciences companies of Danaher
 }
