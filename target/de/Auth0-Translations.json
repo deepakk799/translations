@@ -1,10 +1,10 @@
 ﻿{
-  "login-id_description": "Für den Zugang zu Ihrem Konto ist eine Anmeldung erforderlich.",
+  "login-id_description": "Melden Sie sich an, um zu Ihrem Konto zu gelangen.",
   "login-id_footerText": "Benötigen Sie ein Konto? Registrieren",
   "login-id_Emailaddress-error": "Bitte geben Sie eine E-Mail Adresse ein",
   
   "login-password_title": "Willkommen",
-  "login-password_description": "Für den Zugang zu Ihrem Konto ist eine Anmeldung erforderlich.",
+  "login-password_description": "Melden Sie sich an, um zu Ihrem Konto zu gelangen.",
   "login-password_footerText": "Benötigen Sie ein Konto? Registrieren",
 
   "signup-id_welcome": "Willkommen",
@@ -21,8 +21,8 @@
   "signup-id_organization-error": "Organisation ist erforderlich.",
   "signup-id_title": "Position",
   "signup-id_terms-and-conditions": "Durch Klicken auf „Konto erstellen“ bestätigen Sie, dass Sie die Nutzungsbedingungen und die Datenschutzrichtlinie gelesen haben und ihnen zustimmen.",
-  "signup-id_terms-and-conditions-error": "Um die Nutzung zu ermöglichen, müssen Sie den Nutzungsbedingungen und der Datenschutzrichtlinie zustimmen.",
-  "signup-id_marketing-consent": "Ich möchte Informationen zu Produkten, Dienstleistungen, Veranstaltungen (Workshops, Webinare) und Inhalten zu erhalten. Ich bin damit einverstanden, per Telefon oder E-Mail kontaktiert zu werden.",
+  "signup-id_terms-and-conditions-error": "Sie müssen den Nutzungsbedingungen und der Datenschutzerklärung zustimmen.",
+  "signup-id_marketing-consent": "Ich möchte Informationen zu Produkten, Dienstleistungen, Veranstaltungen (Workshops, Webinare) und Bildungsinhalten erhalten. Ich bin damit einverstanden, per Telefon oder E-Mail kontaktiert zu werden.",
   "signup-id_buttonText": "Konto erstellen",
   "signup-id_footerLinkText": "Haben Sie bereits ein Konto? Anmelden",
   
@@ -32,10 +32,10 @@
   "signup-password_buttonText": "Passwort festlegen",
   
   "reset-password_title": "Passwort vergessen?",
-  "reset-password_backToLoginLinkText": "Zurück zum Login",
+  "reset-password_backToLoginLinkText": "Zurück zur Anmeldung",
   
   "reset-password-success_title": "Passwort aktualisiert",
-  "reset-password-success_buttonText": "Zurück zum Login",
+  "reset-password-success_buttonText": "Zurück zur Anmeldung",
   
   "title": "Wir vereinheitlichen den Zugang über den Danaher-Login!",
   "Description-1": "Zur Verbesserung des Nutzererlebnisses ist die Festlegung eines Passworts für Ihr Danaher-Konto erforderlich.",
@@ -68,5 +68,6 @@
   "mfa_email_body_title": "MFA-Code für <Anwendungsname>",
   "mfa_description_1": "Ihr Code lautet:",
   "mfa_description_2": "Sie erhalten diese E-Mail, da Sie ein Konto bei einem unserer Danaher-Lifesciences-Unternehmen haben (Dev). Sollten Sie sich nicht sicher sein, warum Sie diese Meldung erhalten haben, kontaktieren Sie uns bitte über unser Support-Center."
-
+  "one_login": "Ein Login. Mehr Zugang.",
+  "one_login_description": "Ein Konto. Nahtloser Zugriff auf die Life‑Sciences‑Unternehmen von Danaher."
 }
