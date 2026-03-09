@@ -68,5 +68,6 @@
   "mfa_email_body_title": "Code AMF pour <Nom de l'application>",
   "mfa_description_1": "Votre code est le suivant :",
   "mfa_description_2": "Vous recevez cet e-mail parce que vous avez un compte dans Danaher Account (Dev). Si vous n'êtes pas sûr de la raison pour laquelle vous recevez ce message, veuillez nous contacter par l'intermédiaire de notre Centre d'assistance."
-
+  "one_login": "Un seul login. Plus d’accès.",
+  "one_login_description": "Utilisez un seul compte pour accéder en toute simplicité aux entreprises des sciences de la vie de Danaher."
 }
