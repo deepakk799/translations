@@ -69,5 +69,8 @@
   "mfa_description_1": "Your code is:",
   "mfa_description_2": "You're receiving this email because you have an account in Danaher Account (Dev). If you are not sure why you’re receiving this, please contact us through our Support Center."
   "one_login": "One Login. More Access.",
-  "one_login_description": "Use one account to seamlessly access the life sciences companies of Danaher"
+  "one_login_description": "Use one account to seamlessly access the life sciences companies of Danaher",
+  "intro_line": "Welcome to the Leica Microsystems Online Shop!",
+  "cta_help_line": "Your account is now active, giving you access to browse products, request quotes, and purchase online with ease.",
+  "cta_label": "Explore our Site"
 }
